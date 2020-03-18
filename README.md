@@ -5,4 +5,4 @@ MEMS layout
 http://opencircuitdesign.com/~tim/research/sensor/sensor.html
 
 ## microresonator in BDRIE
-see documentation [here](microresonator_in_BDRIE/read.txt)
+see documentation [here](./microresonator_in_BDRIE/read.txt)
