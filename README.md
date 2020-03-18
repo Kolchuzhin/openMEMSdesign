@@ -1,7 +1,8 @@
 # openMEMSdesign
 MEMS layout
 
-pressure sensor:
+## pressure sensor
 http://opencircuitdesign.com/~tim/research/sensor/sensor.html
 
-microresonator in BDRIE
+## microresonator in BDRIE
+see documentation [here](microresonator_in_BDRIE/read.txt)
