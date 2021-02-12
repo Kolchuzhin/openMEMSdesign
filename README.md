@@ -1,5 +1,5 @@
 # openMEMSdesign
-MEMS layouts
+# MEMS layouts
 
 ## pressure sensor
 http://opencircuitdesign.com/~tim/research/sensor/sensor.html
