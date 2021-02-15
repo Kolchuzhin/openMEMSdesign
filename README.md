@@ -1,5 +1,4 @@
-# openMEMSdesign
-# MEMS layouts
+# openMEMSdesign: Various open sourse and reverse engineering MEMS layouts
 
 ## pressure sensor
 http://opencircuitdesign.com/~tim/research/sensor/sensor.html
