@@ -1,4 +1,5 @@
-# openMEMSdesign: various open sourse and reverse engineering MEMS layouts
+# openMEMSdesign: 
+various open sourse and reverse engineering MEMS layouts
 
 ## pressure sensor
 * http://opencircuitdesign.com/~tim/research/sensor/sensor.html
@@ -19,6 +20,12 @@
 * LMGT_micromirror
 * micromirror
 
-## Compliant Mechanisms
-* Sperrklinke.svg
+## compliant mechanisms
+* Sperrklinke
+* mechanical_amplifier
 
+
+
+# commercial MEMS process:
+* X-FAB: XMS10 or XMB10 technology
+* BDRIE
