@@ -31,4 +31,4 @@ various open sourse and reverse engineering MEMS layouts
 * BDRIE
 
 # 
-www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
+* www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
