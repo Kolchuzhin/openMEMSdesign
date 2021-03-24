@@ -30,5 +30,5 @@ various open sourse and reverse engineering MEMS layouts
 * X-FAB: XMS10 or XMB10 technology
 * BDRIE
 
-# 
+# test structures
 * http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
