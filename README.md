@@ -24,11 +24,14 @@ various open sourse and reverse engineering MEMS layouts
 * Sperrklinke
 * mechanical_amplifier
 
+## piezoelectric circuits
+* https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
 
+## test structures
+* http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
 
+===========================================================================
 # commercial MEMS process:
 * X-FAB: XMS10 or XMB10 technology
 * BDRIE
 
-# test structures
-* http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
