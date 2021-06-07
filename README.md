@@ -34,5 +34,5 @@ various open sourse and reverse engineering MEMS layouts
 # commercial MEMS process:
 * X-FAB: XMS10 or XMB10 technology
 * BDRIE
-* IMEC's SiGeMEMS platform technology
+* IMEC: SiGeMEMS platform technology
 
