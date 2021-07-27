@@ -32,7 +32,8 @@ various open sourse and reverse engineering MEMS layouts
 
 ===========================================================================
 # commercial MEMS process:
-* X-FAB: XMS10 or XMB10 technology
+* X-FAB: XMS10 and XMB10
 * BDRIE
-* IMEC: SiGeMEMS platform technology
+* IMEC: SiGeMEMS
+* STMicroelectronics: ThELMA (Thick Epitaxial Layer for Microactuators and Accelerometers)
 
