@@ -23,6 +23,7 @@ various open sourse and reverse engineering MEMS layouts
 ## compliant mechanisms
 * Sperrklinke
 * mechanical_amplifier
+* indenter
 
 ## piezoelectric circuits
 * https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
