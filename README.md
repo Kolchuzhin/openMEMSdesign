@@ -1,12 +1,13 @@
 # openMEMSdesign: 
-various open sourse and reverse engineering MEMS layouts
+various open source and reverse engineering MEMS layouts
 
 ## pressure sensor
 * http://opencircuitdesign.com/~tim/research/sensor/sensor.html
 * pressure_sensor
 
-## microresonator in BDRIE
-* see documentation [here](microresonator_in_BDRIE/readme.txt)
+## resonators
+* claped-clamped beam microresonator in BDRIE, see documentation [here](microresonator_in_BDRIE/readme.txt)
+* resonator
 
 ## accelerometers
 * accelerometer
@@ -32,9 +33,10 @@ various open sourse and reverse engineering MEMS layouts
 * http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
 
 ===========================================================================
+
 # commercial MEMS process:
 * X-FAB: XMS10 and XMB10
-* BDRIE
+* TUC ZfM: BDRIE
 * IMEC: SiGeMEMS
 * STMicroelectronics: ThELMA (Thick Epitaxial Layer for Microactuators and Accelerometers)
-
+* Tronics/TDK: HARM
