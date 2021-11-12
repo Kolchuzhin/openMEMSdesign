@@ -32,6 +32,11 @@ various open source and reverse engineering MEMS layouts
 
 ## test structures
 * http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
+* Hall_structures
+* piezoresistive_structures
+
+## microfluidic / BioMEMS
+* microfluidic_mixer
 
 ===========================================================================
 
