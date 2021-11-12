@@ -7,6 +7,7 @@ various open source and reverse engineering MEMS layouts
 
 ## resonators
 * claped-clamped beam microresonator in BDRIE, see documentation [here](microresonator_in_BDRIE/readme.txt)
+* Tang_resonator
 * resonator
 
 ## accelerometers
