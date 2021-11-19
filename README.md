@@ -6,7 +6,7 @@ various open source and reverse engineering MEMS layouts
 * pressure_sensor
 
 ## resonators
-* claped-clamped beam microresonator in BDRIE, see documentation [here](microresonator_in_BDRIE/readme.txt)
+* claped-clamped beam microresonator in BDRIE, see documentation [here](microresonator_in_BDRIE/readme.md)
 * Tang_resonator
 * resonator
 
