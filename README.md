@@ -46,4 +46,4 @@ various open source and reverse engineering MEMS layouts
 * IMEC: SiGeMEMS
 * STMicroelectronics: ThELMA (Thick Epitaxial Layer for Microactuators and Accelerometers)
 * Tronics/TDK: HARM
-* Polaris from GE: 5 mask layers with WLP and TSV, 100um thick device layer, 10x10mm area image
+* GE: Polaris (5 mask layers with WLP and TSV, 100um thick device layer, 10x10mm area image)
