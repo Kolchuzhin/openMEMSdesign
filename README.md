@@ -25,7 +25,7 @@ various open source and reverse engineering MEMS layouts
 ## compliant mechanisms
 * Sperrklinke
 * mechanical_amplifier
-* indenter
+* [indenter](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/indenter.svg)
 
 ## piezoelectric circuits
 * https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
