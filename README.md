@@ -3,28 +3,28 @@ various open source and reverse engineering MEMS layouts
 
 ## pressure sensor
 * http://opencircuitdesign.com/~tim/research/sensor/sensor.html
-* pressure_sensor
+* [pressure_sensor](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/pressure_sensor.svg)
 
 ## resonators
 * claped-clamped beam microresonator in BDRIE, see documentation [here](microresonator_in_BDRIE/readme.md)
-* Tang_resonator
-* resonator
+* [Tang_resonator](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Tang_resonator.svg)
+* [resonator](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/resonator.svg)
 
 ## accelerometers
-* accelerometer
-* uni_axial_polysilicon_accelerometer
-* TPU_accelerometer
+* [bulk micromachined uni_axial accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/accelerometer.svg)
+* [uni_axial_polysilicon_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uni_axial_accelerometer.svg)
+* [TPU_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/TPU_accelerometer.svg)
 
 ## gyros
-* RR-gyro
+* [RR-gyro](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/RR-gyro.svg)
 
 ## micromirrors
-* LMGT_micromirror
-* micromirror
+* [LMGT_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg)
+* [micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg)
 
 ## compliant mechanisms
-* Sperrklinke
-* mechanical_amplifier
+* [Sperrklinke](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Sperrklinke.svg)
+* [mechanical_amplifier](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/mechanical_amplifier.svg)
 * [indenter](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/indenter.svg)
 
 ## piezoelectric circuits
@@ -32,11 +32,11 @@ various open source and reverse engineering MEMS layouts
 
 ## test structures
 * http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
-* Hall_structures
+* [Hall_structures](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Hall_structures.svg)
 * [piezoresistive_structures](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/piezoresistive_structures.svg)
 
 ## microfluidic / BioMEMS
-* microfluidic_mixer
+* [microfluidic_mixer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/microfluidic_mixer.svg)
 
 ===========================================================================
 
