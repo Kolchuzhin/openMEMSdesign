@@ -16,14 +16,14 @@ various open source and reverse engineering MEMS layouts
 |:------------------:|:------------------:|:------------------:|
 | ![uni_axial_polysilicon_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uni_axial_accelerometer.svg) | ![bulk micromachined uni_axial accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/accelerometer.svg) | ![TPU_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/TPU_accelerometer.svg) | 
 
-
-
 ## gyros
 * [RR-gyro](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/RR-gyro.svg)
 
 ## micromirrors
-* [LMGT_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg)
-* [micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg)
+
+| [LMGT_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg) | [micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg) | 
+|:------------------:|:------------------:|
+| ![LMGT_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg)) | ![micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg) |
 
 ## compliant mechanisms
 * [Sperrklinke](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Sperrklinke.svg)
