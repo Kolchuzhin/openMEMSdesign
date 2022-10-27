@@ -36,7 +36,11 @@ various open source and reverse engineering MEMS layouts
 * [indenter](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/indenter.svg)
 
 ## piezoelectric circuits
-* https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
+<!-- * https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
+-->
+* https://www.i-micronews.com/products/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
+
+![BAW filter](https://s3.i-micronews.com/uploads/2019/10/SP19478-Qorvo-QM76018-RF-SiP-Apple-iPhone-Xr_3_logo-2000x0-c-default.jpg)
 
 ## test structures
 * http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
