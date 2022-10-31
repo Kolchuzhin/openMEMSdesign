@@ -2,8 +2,10 @@
 various open source and reverse engineering MEMS layouts
 
 ## pressure sensor
-* http://opencircuitdesign.com/~tim/research/sensor/sensor.html
-* [pressure_sensor](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/pressure_sensor.svg)
+
+| [simple CMOS pressure sensor](http://opencircuitdesign.com/~tim/research/sensor/sensor.html) | [pressure_sensor](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/pressure_sensor.svg) | 
+|:------------------:|:------------------:|
+| ![simple CMOS pressure sensor](http://opencircuitdesign.com/~tim/research/sensor/giffiles/device.gif) | ![pressure_sensor](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/pressure_sensor.svg) |
 
 ## resonators
 * claped-clamped beam microresonator in BDRIE, see documentation [here](microresonator_in_BDRIE/readme.md)
