@@ -28,9 +28,9 @@ various open source and reverse engineering MEMS layouts
 
 ## micromirrors
 
-| [LMGT_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg) | [micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg) | 
-|:------------------:|:------------------:|
-| ![LMGT_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg) | ![micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg) |
+| [LMGT 2D micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg) | [micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg) | [cascaded micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/cascaded_micromirror.svg) | 
+|:------------------:|:------------------:|:------------------:|
+| ![LMGT_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/LMGT_micromirror.svg) | ![micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/micromirror.svg) | ![cascaded_micromirror](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/cascaded_micromirror.svg) |
 
 ## compliant mechanisms
 * [Sperrklinke](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Sperrklinke.svg)
