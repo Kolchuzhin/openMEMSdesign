@@ -36,6 +36,7 @@ various open source and reverse engineering MEMS layouts
 * [Sperrklinke](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Sperrklinke.svg)
 * [mechanical_amplifier](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/mechanical_amplifier.svg)
 * [indenter](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/indenter.svg)
+* [Schrittschaltwerk](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-200800952)
 
 ## piezoelectric circuits
 <!-- * https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
