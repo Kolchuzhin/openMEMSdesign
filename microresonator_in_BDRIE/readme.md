@@ -2,4 +2,4 @@
 
 mems_bdrie_resonator.dxf ==> layout
 
-BDRIE.tech               ==> BDRIE-Layers Mapping
+[BDRIE.tech](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/microresonator_in_BDRIE/BDRIE.tech)               ==> BDRIE-Layers Mapping
