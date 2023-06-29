@@ -26,7 +26,8 @@ various open source and reverse engineering MEMS layouts
 |:------------------:|:------------------:|
 | ![RR-gyro](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/RR-gyro.svg) |  |
 
-## IMU https://www.printables.com/de/model/413667-mems-model-six-axis-imu-device/files
+## IMU 
+https://www.printables.com/de/model/413667-mems-model-six-axis-imu-device/files
 
 ## micromirrors
 
