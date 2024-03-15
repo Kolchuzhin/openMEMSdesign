@@ -16,9 +16,9 @@ various open source and reverse engineering MEMS layouts
 
 ## accelerometers
 
-| [uni_axial_polysilicon_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uni_axial_accelerometer.svg) | [bulk micromachined uni_axial accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/accelerometer.svg) | [TPU_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/TPU_accelerometer.svg) |
-|:------------------:|:------------------:|:------------------:|
-| ![uni_axial_polysilicon_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uni_axial_accelerometer.svg) | ![bulk micromachined uni_axial accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/accelerometer.svg) | ![TPU_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/TPU_accelerometer.svg) | 
+| [uni_axial_polysilicon_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uni_axial_accelerometer.svg) | [bulk micromachined uni_axial accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/accelerometer.svg) | [TPU_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/TPU_accelerometer.svg) | [uniaxial_BDRIE_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uniaxial_BDRIE_accelerometer.svg) |
+|:------------------:|:------------------:|:------------------:|:------------------:|
+| ![uni_axial_polysilicon_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uni_axial_accelerometer.svg) | ![bulk micromachined uni_axial accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/accelerometer.svg) | ![TPU_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/TPU_accelerometer.svg) | ![uniaxial_BDRIE_accelerometer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/uniaxial_BDRIE_accelerometer.svg) |
 
 ## gyros
 
