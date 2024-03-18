@@ -41,6 +41,11 @@ various open source and reverse engineering MEMS layouts
 * [indenter](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/indenter.svg)
 * [Schrittschaltwerke](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-200800952)
 
+| [Schrittschaltwerke](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-200800952) |
+|:------------------:|
+| ![Schrittschaltwerke](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Schrittschaltwerke.svg) |
+
+
 ## piezoelectric circuits
 <!-- * https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
 -->
