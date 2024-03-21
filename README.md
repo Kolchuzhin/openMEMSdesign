@@ -59,12 +59,12 @@ various open source and reverse engineering MEMS layouts
 * [Hall_structures](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/Hall_structures.svg)
 * [piezoresistive_structures](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/piezoresistive_structures.svg)
 
-## microfluidic / BioMEMS
+## microfluidics / BioMEMS
 * [microfluidic_mixer](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/microfluidic_mixer.svg)
 
 ===========================================================================
 
-# commercial MEMS process:
+# commercial MEMS processed:
 * X-FAB: XMS10 and XMB10
 * TUC ZfM: 
   * AIM (Airgap Insulation of Microstructures)
