@@ -24,7 +24,7 @@ various open source and reverse engineering MEMS layouts
 
 | [RR-gyro](hhttps://github.com/Kolchuzhin/openMEMSdesign/blob/master/RR-gyro.svg) | LL-gyro | 
 |:------------------:|:------------------:|
-| ![RR-gyro](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/RR-gyro.svg) |  |
+| ![RR-gyro](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/RR-gyro.svg) | ![LL-gyro](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/TPU_LL-gyro.svg) |
 
 ## IMU 
 * [Model of an MPU-6050 6 axis accelerometer/gyroscope](https://www.printables.com/de/model/413667-mems-model-six-axis-imu-device/files)
