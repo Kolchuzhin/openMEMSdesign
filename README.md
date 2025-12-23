@@ -49,11 +49,11 @@ various open source and reverse engineering MEMS layouts
 ## piezoelectric circuits
 <!-- * https://www.systemplus.fr/reverse-costing-reports/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
 -->
-* https://www.i-micronews.com/products/qorvo-qm76018-rffem-in-the-apple-iphone-xr/
-* BAW filter structure with internal electrostatic shielding, US20190103851A1
+* BAW filter structure with internal electrostatic shielding [US20190103851A1](https://patents.google.com/patent/US20190103851A1/en?oq=US20190103851A1)
 * BAW SMR filter:
   
   ![BAW filter](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/BAW_filter.svg)
+* [BAW filter in iPhone-XR/QM76018 RF-FEM](https://medias.yolegroup.com/uploads/2019/10/SP19478-Qorvo-QM76018-RF-SiP-Apple-iPhone-Xr_3_logo.jpg)
 
 ## test structures
 * http://www-tcad.stanford.edu/~chan/mems/canonical/data_files/layout.gds
