@@ -40,6 +40,7 @@ various open source and reverse engineering MEMS layouts
 * [mechanical_amplifier](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/mechanical_amplifier.svg)
 * [indenter](https://github.com/Kolchuzhin/openMEMSdesign/blob/master/indenter.svg)
 * [Schrittschaltwerke](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-200800952)
+* [Micromachined actuators with braking mechanisms](https://doi.org/10.1016/j.sna.2005.01.040)
 
 | [Schrittschaltwerke](https://nbn-resolving.org/urn:nbn:de:bsz:ch1-200800952) |
 |:------------------:|
