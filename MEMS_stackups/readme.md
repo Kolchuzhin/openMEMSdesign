@@ -1,6 +1,6 @@
 ===========================================================================
 
-# commercial MEMS process:
+# commercial MEMS processes:
 * X-FAB: XMS10 and XMB10
 * TUC ZfM: 
   * AIM (Airgap Insulation of Microstructures)
