@@ -66,7 +66,7 @@ various open source and reverse engineering MEMS layouts
 
 ===========================================================================
 
-# commercial MEMS processed:
+# commercial MEMS processes:
 * X-FAB: XMS10 and XMB10
 * TUC ZfM: 
   * AIM (Airgap Insulation of Microstructures)
